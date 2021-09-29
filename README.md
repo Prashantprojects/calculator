@@ -31,4 +31,5 @@ The purpose of this project was to get familiar with Flask, Postman, CSS,HTML an
 New functions can be added to the app
 
 **Credits**
+
 Virat from ineuron providing a good walkthrough for the basis
