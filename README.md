@@ -2,7 +2,18 @@
 
 In this project i have created a calculator with **Flask**. 
 
-The purpose of this project was to get familiar with Flask, Postman, CSS and HTML. I thoroughly enyoyed creating the calculator and expanding my coding knowledge.
+The purpose of this project was to get familiar with Flask, Postman, CSS,HTML and the back/front end process. I thoroughly enyoyed creating the calculator and expanding my coding knowledge.
+
+#### Requirements:
+- certifi==2021.5.30
+- click==8.0.1
+- colorama==0.4.4
+- Flask==2.0.1
+- itsdangerous==2.0.1
+- Jinja2==3.0.1
+- MarkupSafe==2.0.1
+- Werkzeug==2.0.1
+- wincertstore==0.2
 
 #### Manual:
 1. Download files to computer
