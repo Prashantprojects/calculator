@@ -1,6 +1,8 @@
 # calculator with Flask
 
-In this project i have created a calculator with **Flask**
+In this project i have created a calculator with **Flask**. 
+
+The purpose of this project was to get familiar with Flask, Postman, CSS and HTML. I thoroughly enyoyed creating the calculator and expanding my coding knowledge.
 
 #### Manual:
 1. Download files to computer
@@ -15,4 +17,7 @@ In this project i have created a calculator with **Flask**
 4. divide   (value 1 / value2)
 5. square   (value1 ** value 2)
 
+New functions can be added to the app
 
+**Credits**
+Virat from ineuron providing a good walkthrough for the basis
