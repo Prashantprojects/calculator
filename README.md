@@ -30,6 +30,4 @@ The purpose of this project was to get familiar with Flask, Postman, CSS,HTML an
 
 New functions can be added to the app
 
-**Credits**
-
 
