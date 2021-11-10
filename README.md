@@ -32,4 +32,4 @@ New functions can be added to the app
 
 **Credits**
 
-Virat from ineuron providing a good walkthrough for the basis
+
